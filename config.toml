@@ -1,0 +1,4 @@
+baseURL = "http://uulab.fun/hugo/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-theme-bootstrap"
